@@ -1,0 +1,14 @@
+.filter {
+    filter: brightness(.6);
+}
+
+.carousel-text {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 20%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
